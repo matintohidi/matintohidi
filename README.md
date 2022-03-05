@@ -1,10 +1,12 @@
-### About me
+**Hi 👋  My name is Matin Tohidi Sani**
 
-**My name is Matin Tohidi Sani**
+### 😃 About me
 
 - 💻 FrontEnd
 
 <br>
+
+### 👨‍💻 Skills
 
 ![HTML5](https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 ![CSS3](https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
@@ -18,6 +20,14 @@
 ![REDUX](https://camo.githubusercontent.com/9a7c7ebbabb2096c0ad0cac6f64bc9fe93f4954a3ae3f51d6f3e076ba462aab1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d2532333539336438382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)
 ![SOCKET.IO](https://camo.githubusercontent.com/12f99969bfd98dd3c28625efb60232d5cbad3bc130063851ec04b4270369c633/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f636b65742e696f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d736f636b65742e696f266261646765436f6c6f723d303130313031)
 ![GIT](https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+
+<br>
+
+### 📣 Socials
+
+<a href="mailto:matintovhidi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://twitter.com/MatinTovhidi"><img alt="Twitter" src="https://img.shields.io/badge/MatinTovhidi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://t.me/matin_tohidi"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 | <a href="https://github.com/matintohidi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matintohidi&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/matintohidi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matintohidi&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
