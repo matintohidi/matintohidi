@@ -1,7 +1,5 @@
 ﻿# Hi there, I'm Matin Tohidi Sani <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="190px" src="https://octodex.github.com/images/Fintechtocat.png" />
-
 ## I'm a Front-end developer
 
 - 💻 My favorite thing to do is frontend development.
