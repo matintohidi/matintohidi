@@ -17,7 +17,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-liart-mu.vercel.app/api/spotify)](https://open.spotify.com/user/312gdsquybg4mg55lk7sma3xqzta)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/312gdsquybg4mg55lk7sma3xqzta)
 
 ---
 
