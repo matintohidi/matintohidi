@@ -43,13 +43,13 @@
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-JSON                     9 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 23/10/2022 18:56:35 UTC
+ Last Updated on 24/10/2022 19:07:25 UTC
 <!--END_SECTION:waka-->
