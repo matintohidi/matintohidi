@@ -43,14 +43,13 @@
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-JavaScript               18 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   95.43% 
-TypeScript               0 secs              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.57%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 01/12/2022 18:46:11 UTC
+ Last Updated on 02/12/2022 18:43:04 UTC
 <!--END_SECTION:waka-->
