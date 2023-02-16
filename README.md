@@ -43,16 +43,16 @@
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               7 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 7 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 ```
 
 
- Last Updated on 15/02/2023 18:44:51 UTC
+ Last Updated on 16/02/2023 18:43:11 UTC
 <!--END_SECTION:waka-->
