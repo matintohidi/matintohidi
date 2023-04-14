@@ -42,17 +42,15 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-YAML                     27 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   74.08 % 
-JavaScript               9 mins              ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.92 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 32 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   88.34 % 
-VS Code                  4 mins              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.66 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    36 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/04/2023 18:38:58 UTC
+ Last Updated on 14/04/2023 18:38:31 UTC
 <!--END_SECTION:waka-->
