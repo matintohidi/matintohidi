@@ -13,7 +13,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -60,5 +60,5 @@ Python                   1 repo              ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 06/09/2023 18:38:22 UTC
+ Last Updated on 07/09/2023 18:38:32 UTC
 <!--END_SECTION:waka-->
