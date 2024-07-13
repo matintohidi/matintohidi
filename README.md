@@ -13,13 +13,11 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 15.4 kB Used in GitHub's Storage 
- > 
-> 🏆 11 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,5 +58,5 @@ Python                   1 repo              ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 12/07/2024 20:56:11 UTC
+ Last Updated on 13/07/2024 18:38:00 UTC
 <!--END_SECTION:waka-->
