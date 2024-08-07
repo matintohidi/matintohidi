@@ -41,11 +41,10 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-JavaScript               27 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   67.28 % 
-JSON                     13 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -59,5 +58,5 @@ Python                   1 repo              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 06/08/2024 18:42:24 UTC
+ Last Updated on 07/08/2024 18:42:02 UTC
 <!--END_SECTION:waka-->
