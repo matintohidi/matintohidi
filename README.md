@@ -19,6 +19,8 @@
 
 > 📦 18.4 kB Used in GitHub's Storage 
  > 
+> 🏆 17 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -41,10 +43,13 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               45 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   94.17 % 
+JSON                     1 min               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.29 % 
+Image (svg)              0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.36 % 
+CSS                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  48 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -58,5 +63,5 @@ Python                   1 repo              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 07/08/2024 18:42:02 UTC
+ Last Updated on 08/08/2024 18:43:12 UTC
 <!--END_SECTION:waka-->
