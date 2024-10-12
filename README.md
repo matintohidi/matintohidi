@@ -19,8 +19,6 @@
 
 > 📦 18.4 kB Used in GitHub's Storage 
  > 
-> 🏆 17 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -43,10 +41,10 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Python                   25 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  25 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -60,5 +58,5 @@ Python                   1 repo              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 11/10/2024 18:45:08 UTC
+ Last Updated on 12/10/2024 18:43:06 UTC
 <!--END_SECTION:waka-->
