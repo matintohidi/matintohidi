@@ -1,73 +1,28 @@
 ﻿# Hi there, I'm Matin Tohidi Sani <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-## I'm a Front-end developer
 
-- 💻 My favorite thing to do is frontend development.
-- 🧠  I'm learning Next.js
-- ✉️ You can contact me at matintovhidi@gmail.com
+### Software developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matintohidi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matintovhidi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matin-tohidi-sani)
+I'm a passionate **Software Developr** focused on building robust, scalable, and user-friendly applications. My work is driven by a curiosity for new technologies and a commitment to writing clean, maintainable code and I want to become a software engineer...
 
 ---
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+### 💻 Software Developing
+I specialize in full-stack web development with a strong background in:
 
-**🐱 My GitHub Data** 
+-   **Languages:** TypeScript, Golang
+-   **Databases:** Postgresql
+-   **Tools & Platforms:** Docker, Git
 
-> 📦 19.6 kB Used in GitHub's Storage 
- > 
-> 🏆 201 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
+---
 
-```text
-🌞 Morning                83 commits          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.95 % 
-🌆 Daytime                78 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.32 % 
-🌃 Evening                66 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.43 % 
-🌙 Night                  81 commits          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.30 % 
-```
+### 🤝 Let's Connect!
+I'm always open to new opportunities and collaborations in both software engineering and media. Feel free to reach out to me!
 
+-   **LinkedIn:** [linkedin.com/in/matin-tohidi-sani](https://www.linkedin.com/in/matin-tohidi-sani/)
+-   **Twitter:** [@matintovhidi](https://x.com/matintovhidi)
+-   **Email:** matintovhidi@gmail.com
 
-📊 **This Week I Spent My Time On** 
+<br>
 
-```text
-🕑︎ Time Zone: Asia/Tehran
-
-💬 Programming Languages: 
-TypeScript               19 hrs 46 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   97.86 % 
-Bash                     16 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.39 % 
-Python                   3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.28 % 
-Markdown                 2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.21 % 
-Other                    1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.13 % 
-
-🔥 Editors: 
-VS Code                  20 hrs 12 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-
-💻 Operating System: 
-Linux                    20 hrs 12 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               7 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.33 % 
-Python                   2 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.67 % 
-Jupyter Notebook         1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.33 % 
-Makefile                 1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.33 % 
-JavaScript               1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.33 % 
-```
-
-
-
-
- Last Updated on 24/09/2025 18:48:03 UTC
-<!--END_SECTION:waka-->
+![Matin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matintohidi&show_icons=true&theme=default&hide_rank=true)
